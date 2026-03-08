@@ -1,12 +1,6 @@
 {
-  "name": "xiaomao",
+  "name": "feishu-bot",
   "version": "1.0.0",
-  "description": "飞书机器人桥接服务",
-  "main": "api/index.js",
-  "scripts": {
-    "dev": "vercel dev"
-  },
-  "dependencies": {
-    "crypto": "^1.0.1"
-  }
+  "description": "飞书机器人 API",
+  "main": "api/index.js"
 }
