@@ -2,5 +2,8 @@
   "name": "feishu-bot",
   "version": "1.0.0",
   "description": "飞书机器人 API",
-  "main": "api/index.js"
+  "main": "api/index.js",
+  "scripts": {
+    "dev": "echo 'No dev script needed'"
+  }
 }
